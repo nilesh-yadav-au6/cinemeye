@@ -1,0 +1,98 @@
+.logo {
+    display: flex;
+}
+
+.sidebar {
+    display: flex;
+    background-color: radial-gradient(circle at 100%, #333, #333 50%, #eee 75%, #333 75%);  
+    background-image:
+        radial-gradient(circle at top right,
+            #2b314c,
+            #10121c 50%);
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+
+.logo img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.c_name {
+    margin-top: 38px;
+    font-size: large;
+    font-weight: bolder;
+    color: white;
+
+}
+
+.search input {
+    margin-top: 30px;
+    height: 2.5rem;
+    width: 40rem;
+    margin-left: 7rem;
+    border-color: none;
+    border-radius: 10px;
+    background-color: #2f354f;
+    outline: none;
+    border: transparent;
+}
+
+.lang input {
+    margin-top: 30px;
+    height: 2.5rem;
+    width: 4rem;
+    margin-left: 2rem;
+    border-color: none;
+    border-radius: 10px;
+    background-color: #2f354f;
+    outline: none;
+    border: transparent;
+}
+
+.login {
+    margin-top: 30px;
+    height: 2.5rem;
+    width: 6rem;
+    margin-left: 15rem;
+    border-color: none;
+    border-radius: 10px;
+    background-color: #2f354f;
+    color: #2f07f7;
+    outline: none;
+    border: transparent;
+}
+
+.login input {
+    height: 2.5rem;
+    width: 6rem;
+    border-color: none;
+    border-radius: 10px;
+    color: blue;
+    background-color: #2f354f;
+    outline: none;
+    border: transparent;
+}
+
+.trynow input {
+    margin-top: 30px;
+    height: 2.5rem;
+    width: 6rem;
+    margin-left: 2rem;
+    border-color: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #2041d4;
+    outline: none;
+    border: transparent;
+}
+
+
+@keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }

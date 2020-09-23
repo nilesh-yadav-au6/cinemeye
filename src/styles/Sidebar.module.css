@@ -1,0 +1,148 @@
+.main_div {
+    display: flex;
+    background-color: radial-gradient(circle at 100%, #333, #333 50%, #eee 75%, #333 75%);
+    /* background-color: red; */
+    background-image:
+        radial-gradient(circle at top right,
+            #2b314c,
+            #10121c 50%);
+}
+
+.sidebar {
+    width: 18.5rem;
+}
+
+.sidebar ul {
+    list-style-type: none;
+}
+
+.sidebar ul li {
+    margin: 15px 0;
+    color: white;
+}
+
+.sidebar small {
+    margin-left: 1rem;
+}
+
+.sidebar img {
+    height: 1.5rem;
+}
+
+.caraousel {
+    width: 78%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.caraousel .image_carousel {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    position: relative;
+    border-radius: 15px;
+    z-index: 0;
+}
+
+.c_item {
+    position: relative;
+    z-index: 0;
+}
+
+.caro_name {
+    color: white;
+}
+
+.li_tag:hover {
+    background-color: #2f354f;
+    height: 2rem;
+    width: 10rem;
+    border-radius: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.detaill {
+    position: absolute;
+    top: 2rem;
+    left: 10rem;
+    z-index: 1;
+}
+
+.detaill span {
+    background-color: black;
+    opacity: 0.5;
+    border-style: none;
+    height: 3rem;
+    width: 10rem;
+    padding: 5px;
+    margin-right: 1rem;
+    margin-top: 0.8rem;
+    color: white;
+    border-radius: 5px;
+}
+.detaill span:hover{
+    background-color: white;
+    color:black;
+    height: 2rem;
+    width: 10rem;
+    border-radius: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.collection {
+    color: black;
+    height: 2rem;
+    padding-top: 3px;
+    width: 10rem;
+    text-align: center;
+    background-color: white;
+    float: right;
+    border-radius: 10px;
+}
+
+.image_Card {
+    width: 18rem;
+    height: 170px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.card_div {
+    box-shadow:
+        0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+        0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+        0 12.5px 10px rgba(0, 0, 0, 0.06),
+        0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+        0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+        0 100px 80px rgba(0, 0, 0, 0.12);
+    margin: 5px;
+    width: 18rem;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    background-color: #0f151d;
+    flex-direction: column;
+    align-items: flex-start;
+    transform: scale(1);
+    transition: 1s ease; 
+}
+
+.card_div:hover{
+    transform: scale(1.2);
+    z-index: 1;
+}
+
+.card_div .content {
+    margin: 10px;
+}
+
+.card_div .para {
+    color: white;
+    margin: 0;
+    padding: 0;
+    margin-left: 1rem;
+}
