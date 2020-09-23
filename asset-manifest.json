@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/nilesh-yadav-au6/cinemeye.git/static/css/main.8fe3811b.chunk.css",
+    "main.js": "/nilesh-yadav-au6/cinemeye.git/static/js/main.e83f36aa.chunk.js",
+    "main.js.map": "/nilesh-yadav-au6/cinemeye.git/static/js/main.e83f36aa.chunk.js.map",
+    "runtime-main.js": "/nilesh-yadav-au6/cinemeye.git/static/js/runtime-main.e2582eca.js",
+    "runtime-main.js.map": "/nilesh-yadav-au6/cinemeye.git/static/js/runtime-main.e2582eca.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/nilesh-yadav-au6/cinemeye.git/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e132e9ee.chunk.js": "/nilesh-yadav-au6/cinemeye.git/static/js/2.e132e9ee.chunk.js",
+    "static/js/2.e132e9ee.chunk.js.map": "/nilesh-yadav-au6/cinemeye.git/static/js/2.e132e9ee.chunk.js.map",
+    "index.html": "/nilesh-yadav-au6/cinemeye.git/index.html",
+    "precache-manifest.1aec9f5aef559a547d2c2cfa7d9a1206.js": "/nilesh-yadav-au6/cinemeye.git/precache-manifest.1aec9f5aef559a547d2c2cfa7d9a1206.js",
+    "service-worker.js": "/nilesh-yadav-au6/cinemeye.git/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/nilesh-yadav-au6/cinemeye.git/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.8fe3811b.chunk.css.map": "/nilesh-yadav-au6/cinemeye.git/static/css/main.8fe3811b.chunk.css.map",
+    "static/js/2.e132e9ee.chunk.js.LICENSE.txt": "/nilesh-yadav-au6/cinemeye.git/static/js/2.e132e9ee.chunk.js.LICENSE.txt",
+    "static/media/adventure.jpg": "/nilesh-yadav-au6/cinemeye.git/static/media/adventure.67cfeb3b.jpg",
+    "static/media/comedy.jpg": "/nilesh-yadav-au6/cinemeye.git/static/media/comedy.2fae7ec0.jpg",
+    "static/media/drama.jpg": "/nilesh-yadav-au6/cinemeye.git/static/media/drama.c04d2269.jpg",
+    "static/media/episode4.jpg": "/nilesh-yadav-au6/cinemeye.git/static/media/episode4.d53a1275.jpg",
+    "static/media/gentlemen.jpg": "/nilesh-yadav-au6/cinemeye.git/static/media/gentlemen.7065f19f.jpg",
+    "static/media/image1.jpg": "/nilesh-yadav-au6/cinemeye.git/static/media/image1.e02508fe.jpg",
+    "static/media/jumanji.jpg": "/nilesh-yadav-au6/cinemeye.git/static/media/jumanji.9382fad4.jpg",
+    "static/media/logo.png": "/nilesh-yadav-au6/cinemeye.git/static/media/logo.cfe89f12.png",
+    "static/media/midway.jpg": "/nilesh-yadav-au6/cinemeye.git/static/media/midway.515385db.jpg",
+    "static/media/westworld.jpg": "/nilesh-yadav-au6/cinemeye.git/static/media/westworld.0c559418.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2582eca.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e132e9ee.chunk.js",
+    "static/css/main.8fe3811b.chunk.css",
+    "static/js/main.e83f36aa.chunk.js"
+  ]
+}
